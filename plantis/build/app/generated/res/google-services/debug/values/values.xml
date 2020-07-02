@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">968518211247-do6kmms1lb63kkgph2386s8k0fb9emka.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://plantis-fb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">968518211247</string>
+    <string name="google_api_key" translatable="false">AIzaSyDi8qrVLQxOwJkSzp9I2PTRPeAeKlmMNhg</string>
+    <string name="google_app_id" translatable="false">1:968518211247:android:be35a423997484344ae65a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDi8qrVLQxOwJkSzp9I2PTRPeAeKlmMNhg</string>
+    <string name="google_storage_bucket" translatable="false">plantis-fb.appspot.com</string>
+    <string name="project_id" translatable="false">plantis-fb</string>
+</resources>
