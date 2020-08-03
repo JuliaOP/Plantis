@@ -206,7 +206,7 @@ class _HomeState extends State<Home> {
                 constraints: BoxConstraints(
                   maxHeight: altura, maxWidth: largura
                 ),
-                color: Colors.white60,
+                color: Colors.white,
                 height: 60,
                 alignment: Alignment.bottomCenter,
                 child: Center(
@@ -215,25 +215,40 @@ class _HomeState extends State<Home> {
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
                       GestureDetector(
-                        child: Image.asset("images/facebook.png",
-                        height: 35,
-                        width: 35,),
                         onTap: (){},
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.center,
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            Image.asset("images/Tab bar/Prancheta - 5.png",
+                              height: 35,
+                              width: 35,
+                            ),
+                            Text(
+                              'Cultivo',
+                              style: TextStyle(
+                                fontFamily: 'Metropolis semi bold',
+                                fontSize: 10,
+                                color: Colors.cyanAccent,
+                              ),
+                            ),
+                          ],
+                          ),
                       ),
                       GestureDetector(
-                        child: Image.asset("images/TabBar_Prancheta-1.png",
+                        child: Image.asset("images/Tab bar/Prancheta - 2.png",
                             height: 35,
                             width: 35),
                         onTap: (){},
                       ),
                       GestureDetector(
-                        child: Image.asset("images/facebook.png",
+                        child: Image.asset("images/Tab bar/Prancheta - 3.png",
                             height: 35,
                             width: 35),
                         onTap: (){},
                       ),
                       GestureDetector(
-                        child: Image.asset("images/facebook.png",
+                        child: Image.asset("images/Tab bar/Prancheta - 4.png",
                             height: 35,
                             width: 35),
                         onTap: (){},
