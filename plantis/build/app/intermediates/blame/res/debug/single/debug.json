@@ -1,26 +1,26 @@
 [
     {
-        "merged": "/home/caipora/gitWorkspace/plantixapp/Plantis-app_com_firebase/plantis/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/caipora/gitWorkspace/plantixapp/Plantis-app_com_firebase/plantis/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/home/caipora/gitWorkspace/plantixapp/Plantis_github/Plantis/plantis/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/caipora/gitWorkspace/plantixapp/Plantis_github/Plantis/plantis/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/caipora/gitWorkspace/plantixapp/Plantis-app_com_firebase/plantis/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/caipora/gitWorkspace/plantixapp/Plantis-app_com_firebase/plantis/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/caipora/gitWorkspace/plantixapp/Plantis_github/Plantis/plantis/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/home/caipora/gitWorkspace/plantixapp/Plantis_github/Plantis/plantis/android/app/src/main/res/drawable/launch_background.xml"
     },
     {
-        "merged": "/home/caipora/gitWorkspace/plantixapp/Plantis-app_com_firebase/plantis/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/caipora/gitWorkspace/plantixapp/Plantis-app_com_firebase/plantis/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/home/caipora/gitWorkspace/plantixapp/Plantis_github/Plantis/plantis/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/caipora/gitWorkspace/plantixapp/Plantis_github/Plantis/plantis/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/caipora/gitWorkspace/plantixapp/Plantis-app_com_firebase/plantis/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
-        "source": "/home/caipora/gitWorkspace/plantixapp/Plantis-app_com_firebase/plantis/android/app/src/main/res/drawable/launch_background.xml"
+        "merged": "/home/caipora/gitWorkspace/plantixapp/Plantis_github/Plantis/plantis/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/caipora/gitWorkspace/plantixapp/Plantis_github/Plantis/plantis/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/caipora/gitWorkspace/plantixapp/Plantis-app_com_firebase/plantis/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/caipora/gitWorkspace/plantixapp/Plantis-app_com_firebase/plantis/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/caipora/gitWorkspace/plantixapp/Plantis_github/Plantis/plantis/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/caipora/gitWorkspace/plantixapp/Plantis_github/Plantis/plantis/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/caipora/gitWorkspace/plantixapp/Plantis-app_com_firebase/plantis/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/caipora/gitWorkspace/plantixapp/Plantis-app_com_firebase/plantis/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/caipora/gitWorkspace/plantixapp/Plantis_github/Plantis/plantis/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/caipora/gitWorkspace/plantixapp/Plantis_github/Plantis/plantis/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]
