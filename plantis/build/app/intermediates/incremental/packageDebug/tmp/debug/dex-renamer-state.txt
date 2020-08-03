@@ -1,10 +1,10 @@
-#Tue Jun 30 16:15:47 BRT 2020
+#Mon Aug 03 15:32:11 BRT 2020
 path.2=classes3.dex
 path.1=classes2.dex
 path.0=classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.2=/home/caipora/gitWorkspace/plantixapp/Plantis-app_com_firebase/plantis/build/app/intermediates/dex/debug/out/classes3.dex
-base.1=/home/caipora/gitWorkspace/plantixapp/Plantis-app_com_firebase/plantis/build/app/intermediates/dex/debug/out/classes2.dex
-base.0=/home/caipora/gitWorkspace/plantixapp/Plantis-app_com_firebase/plantis/build/app/intermediates/dex/debug/out/classes.dex
+base.2=/home/caipora/gitWorkspace/plantixapp/Plantis_github/Plantis/plantis/build/app/intermediates/dex/debug/out/classes3.dex
+base.1=/home/caipora/gitWorkspace/plantixapp/Plantis_github/Plantis/plantis/build/app/intermediates/dex/debug/out/classes2.dex
+base.0=/home/caipora/gitWorkspace/plantixapp/Plantis_github/Plantis/plantis/build/app/intermediates/dex/debug/out/classes.dex
