@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:plantis/screens/home/home.dart';
+import 'package:plantis/screens/userdata/pages/userdata.dart';
 import 'package:plantis/testando.dart';
 
 class ComponentListItem {
@@ -23,7 +24,7 @@ List<ComponentListItem> componentList = [
       icon: Icons.fingerprint,
       title: 'Test'),
   ComponentListItem(
-      widget: Container(height: 100, width: 100, color: Colors.green),
+      widget: UserData(),
       icon: Icons.account_circle,
       title: 'Dados Cadastrais'),
 ];
