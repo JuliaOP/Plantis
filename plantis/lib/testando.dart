@@ -3,7 +3,7 @@ import 'package:plantis/animations/fade_animation.dart';
 import 'package:plantis/models/dialogs.dart';
 import 'package:plantis/services/auth.dart';
 
-class Home extends StatelessWidget {
+class Testando extends StatelessWidget {
   final AuthService _auth = AuthService(); //access auth log out , sign out
   Dialogs dialogs = new Dialogs();
 
